@@ -1290,6 +1290,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameOverPanel: {fileID: 1737077185}
   pauseMenuPanel: {fileID: 7701913190368115057}
+  currentLevelText: {fileID: 7701913189729834709}
   settingsMenuPanel: {fileID: 409422434}
   sceneFading: {fileID: 4341293419207930038}
   uiClickSFX: {fileID: 568690059}

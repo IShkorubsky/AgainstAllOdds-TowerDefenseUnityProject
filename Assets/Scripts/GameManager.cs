@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,6 +8,7 @@ public class GameManager : MonoBehaviour
     
     [SerializeField]private GameObject gameOverPanel;
     [SerializeField]private GameObject pauseMenuPanel;
+    [SerializeField]private TMP_Text currentLevelText;
     [SerializeField]private GameObject settingsMenuPanel;
     [SerializeField]private SceneFading sceneFading;
     [SerializeField]private AudioSource uiClickSFX;
@@ -62,6 +64,7 @@ public class GameManager : MonoBehaviour
     public void PauseGame()
     {
         uiClickSFX.Play();
+        currentLevelText.text = "Chapter 1-" + (nextLevel - 1);
         Time.timeScale = 0;
         pauseMenuPanel.SetActive(true);
     }
