@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46620362-26d0-4487-9373-55bc1be7d246" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BuildUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EC220F6-96A7-4948-A087-7E75F89752CF/6b/20357f89/Cursor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Wave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TurretBlueprint.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Waypoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/WaveSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArcherTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/Arrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/BuildManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cannon.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShowTurretPrices.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArcherTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/NodeUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/PauseAndSettingsUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneFading.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Wave.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ssss.cs" />
+        <option value="$PROJECT_DIR$/Assets/VolumeControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Arrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BuildManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneFading.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TurretBlueprint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VolumeControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Waypoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NodeUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaveSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CJybulR3Yomg50QnIqYuw6Vs8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../New folder\Against All Odds.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\ILLYA\Desktop\New folder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46620362-26d0-4487-9373-55bc1be7d246" name="Default Changelist" comment="" />
+      <created>1658535060483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658535060483</updated>
+      <workItem from="1658535068461" duration="801000" />
+      <workItem from="1658771059635" duration="33270000" />
+      <workItem from="1658858384117" duration="28337000" />
+      <workItem from="1658897405561" duration="14995000" />
+      <workItem from="1658976165137" duration="12831000" />
+      <workItem from="1659428608377" duration="15236000" />
+      <workItem from="1659533912243" duration="1280000" />
+      <workItem from="1659562085376" duration="3633000" />
+      <workItem from="1659565816008" duration="1046000" />
+      <workItem from="1659568224618" duration="1339000" />
+      <workItem from="1659570549082" duration="2232000" />
+      <workItem from="1684356965043" duration="314000" />
+      <workItem from="1684536004598" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="238" key="run.anything.popup" timestamp="1658888926812">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/-1920.0.1920.1032/1920.137.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1658888926812" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1659046414980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1032/1920.137.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1659046414980" />
+  </component>
+</project>
