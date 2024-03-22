@@ -32,6 +32,4 @@ public class VolumeControl : MonoBehaviour
     {
         audioMixer.SetFloat(masterVolumeParam, Mathf.Log10(value) * multiplier);
     }
-
-
 }
