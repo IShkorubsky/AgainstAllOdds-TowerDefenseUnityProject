@@ -17,6 +17,10 @@ public class MainMenuManager : MonoBehaviour
 
     private void Start()
     {
+        var savedLevel = 0;
+        savedLevel = PlayerPrefs.GetInt("levelReachedSave", savedLevel);
+        Debug.Log("Current level save:" + savedLevel);
+
         SetVolumeParameters(30f);
 
         if (!Screen.fullScreen)

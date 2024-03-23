@@ -37,6 +37,11 @@ public class GameManager : MonoBehaviour
         {
             GameOver();
         }
+
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            WinLevel();
+        }
     }
 
     /// <summary>
@@ -56,6 +61,9 @@ public class GameManager : MonoBehaviour
     {
         PlayerPrefs.SetInt("levelReachedSave",nextLevel);
         sceneFading.FadeToAnotherScene(SceneManager.GetActiveScene().buildIndex + 1);
+        var savedLevel = 0;
+        savedLevel = PlayerPrefs.GetInt("levelReachedSave", savedLevel);
+        Debug.Log("Current level save:" + savedLevel);
     }
 
     /// <summary>

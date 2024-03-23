@@ -1240,7 +1240,7 @@ MonoBehaviour:
   sceneFading: {fileID: 4341293419207930038}
   uiClickSFX: {fileID: 568690059}
   gameOverSFX: {fileID: 568690060}
-  nextLevel: 4
+  nextLevel: 5
   victoryPanel: {fileID: 911682047}
   gameVictorySFX: {fileID: 568690061}
   enemyDeathSFX: {fileID: 568690063}
