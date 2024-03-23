@@ -28,6 +28,7 @@ public class Tower : MonoBehaviour
 
     private void Start()
     {
+        shootSFX = GetComponent<AudioSource>();
         InvokeRepeating(nameof(UpdateTarget),0f,0.5f);
     }
 
